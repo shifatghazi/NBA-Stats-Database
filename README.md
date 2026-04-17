@@ -1,6 +1,9 @@
 COMP 3005 Final Project - Part 2
 NBA Statistics and Game Tracking Database
 
+Youtube Link:
+https://youtu.be/wRwGQNm7pAQ
+
 DATABASE FILE NAME
 nba_stats_project.db
 
@@ -40,6 +43,3 @@ EXAMPLE QUERIES THAT CAN BE PERFORMED
 2. Show all games for a selected team in a selected season.
 3. Show player statistics across games.
 4. Select a game and show the box score for that game.
-
-Youtube Link:
-https://youtu.be/wRwGQNm7pAQ
