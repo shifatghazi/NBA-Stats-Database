@@ -1,4 +1,4 @@
-COMP 3005 Final Project - Part 2
+COMP 3005 Final Project
 NBA Statistics and Game Tracking Database
 
 Youtube Link:
